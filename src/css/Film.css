@@ -1,0 +1,9 @@
+li {
+  list-style: none;
+}
+
+p {
+  text-align: center;
+  font-weight: 900;
+  color: midnightblue;
+}
